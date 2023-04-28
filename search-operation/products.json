@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"image": "imeges/vivo.png",
+		"name": "Vivo V20pro",
+		"price": "20000",
+		"stock":"Available",
+		"productCode": "v203"
+	},
+	{
+		"id": 2,
+		"image": "imeges/oppo.jpg",
+		"name": "OPPO f21pro plus",
+		"price": "22000",
+		"stock": "Available",
+		"productCode": "op433"
+	},
+	{
+		"id": 3,
+		"image": "imeges/redmi.jpg",
+		"name": "Redmi note 11 pro",
+		"price": "18000",
+		"stock": "Available",
+		"productCode": "K012"
+	},
+	{
+		"id": 4,
+		"image": "imeges/infinix-hot11.jpg",
+		"name": "infinix hot 11",
+		"price": "17999",
+		"stock": "Not available",
+		"productCode": "G0127"
+	},
+	{
+		"id": 5,
+		"image": "imeges/tecno.jpg",
+		"name": "Tecno spark ",
+		"price": "12000",
+		"stock": "Available",
+		"productCode": "G1233"
+	},
+	{
+		"id": 6,
+		"image": "imeges/nokia.jpg",
+		"name": "Nokia",
+		"price": "14999",
+		"stock": "Not available",
+		"productCode": "G4478"
+	}
+]

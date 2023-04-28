@@ -1,0 +1,85 @@
+/* I always reset all the html elements */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: sans-serif;
+	min-height: 100vh;
+	color: #555;
+}
+.search{
+    margin-left: 130px;
+    font-size: 25px;
+	width: 81%;
+	border: 2px solid black;
+	padding: 10px;
+	border-radius: 15px;
+}
+
+table{
+	width:  1100px;
+	margin: 30px auto;
+}
+
+table th{
+	padding: 15px 0;
+	background-color:orange;
+	color: white;
+	/* background-color: #fff; */
+	border:  thin solid #d4d4d4;
+	font-size: 20px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table td{
+	padding: 10px;
+	border:  thin solid #d4d4d4;
+	width: 0px;
+	text-align: center;
+	background-color: #fff;
+}
+
+table img{
+	width:  60%;
+}
+
+table td.total-price{
+	font-weight: bold;
+	font-size: 22px;
+}
+table a{
+	text-decoration: none;
+	color: darkred;
+	background-color: #ffecef;
+	padding: 10px 15px;
+}
+table a:active{
+	background-color: #ccf4d6;
+	color:  green;
+}
+
+table select{
+	padding: 10px;
+	width:  200px;
+	font-size: 16px;
+	border: thin solid #d4d4d4;
+	background-color: transparent;
+}
+table select:focus{
+	outline: none;
+}
+
+table img{
+	width:  60%;
+}
+tr td{
+	transition: .3s;
+}
+tr td:hover{
+	background-color: orange;
+	color: white;
+	cursor: pointer;
+}
